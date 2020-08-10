@@ -5,7 +5,7 @@ public class JavaExample{
   }
   
   public static String getValue() {
-    return "test";
+    return "test02";
   }
 
 }
