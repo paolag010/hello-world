@@ -3,7 +3,7 @@ public class JavaExample{
   public static void main(String[] args){
     System.out.println("Test");
     System.out.println(getValue());
-    System.out.println(getValue("Eric 1"));
+    System.out.println(getValue("Eric 2"));
   }
   
   public static String getValue() {
