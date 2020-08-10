@@ -4,8 +4,6 @@ public class JavaExample{
     System.out.println("Test");
   }
   
-  public static String getValue() {
-    return "test";
-  }
+
 
 }
